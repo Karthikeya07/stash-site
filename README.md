@@ -1,6 +1,6 @@
-# Unspent website
+# Leftover website
 
-Public pages for the Unspent gift card wallet app, served by GitHub Pages:
+Public pages for the Leftover gift card wallet app, served by GitHub Pages:
 
 - Privacy policy: https://www.karthikeyanagandla.me/stash-site/privacy.html
 
